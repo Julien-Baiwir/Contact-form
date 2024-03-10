@@ -1,4 +1,4 @@
-Contact-form
+<h2>Contact-form/h2>
 
 <h3>Projet à réaliser</h3>
 <p>Création d'un formulaire à l'aide du langage PHP, d'une connexion à une base de données, d'une validation client à l'aide de JS, l'utlisation d'une librairie Tailwind, la prévention grâce à un Captcha.
@@ -6,7 +6,7 @@ Contact-form
 
 - Envoi d'un e-mail une fois le formulaire bien rempli 
 - La protection contre les attaques les plus communes 
-- Un dashboard avec une connexion privée admin reprenant l'ensemble des demandes envoyées ✅ 
+- Un dashboard avec une connexion privée admin reprenant l'ensemble des demandes envoyées 
 - Approfondir mes connaissances dans le back-end d'un projet, ce qui ne me déplait pas.
 
 <h3>🔎Coup d'oeil sur le projet</h3>
