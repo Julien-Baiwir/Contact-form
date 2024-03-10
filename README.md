@@ -1,4 +1,4 @@
-<h2>Contact-form/h2>
+<h2>Contact-form</h2>
 
 <h3>Projet à réaliser</h3>
 <p>Création d'un formulaire à l'aide du langage PHP, d'une connexion à une base de données, d'une validation client à l'aide de JS, l'utlisation d'une librairie Tailwind, la prévention grâce à un Captcha.
